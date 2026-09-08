@@ -26,4 +26,6 @@
 [![JARVIS](https://github-readme-stats.vercel.app/api/pin/?username=devaaradhya99&repo=J.A.R.V.I.S&theme=radical)](https://github.com/devaaradhya99/J.A.R.V.I.S)
 
 ## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/devaaradhya99/devaaradhya99/output/github-snake-dark.svg)
 ![Snake animation](https://raw.githubusercontent.com/devaaradhya99/devaaradhya99/output/github-contribution-grid-snake-dark.svg)
