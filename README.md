@@ -1,6 +1,7 @@
 # Hey, I'm devaaradhya99 👋
 
 ## 🚀 About Me
+- 🎯 **Goal**: Build the best AI assistant
 - 🔭 I'm working on **JARVIS Voice Assistant**
 - 🌱 I'm learning **Python, AI, IoT**
 - 💬 Ask me about **JARVIS, Arduino, Voice AI**
