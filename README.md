@@ -40,20 +40,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devaaradhya99&layout=compact&theme=radical&hide_border=true)
 
----
-
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=devaaradhya99&theme=radical&no-frame=true&column=7)
-
----
-
-## 🔥 Streak Stats
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=devaaradhya99&theme=radical&hide_border=true)
-
----
-
+ ----
 ## 📌 Pinned Repos
 
 [![JARVIS](https://github-readme-stats.vercel.app/api/pin/?username=devaaradhya99&repo=J.A.R.V.I.S&theme=radical)](https://github.com/devaaradhya99/J.A.R.V.I.S)
