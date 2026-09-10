@@ -34,24 +34,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![devaaradhya99's GitHub stats](https://github-readme-stats.vercel.app/api?username=devaaradhya99&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devaaradhya99&layout=compact&theme=radical&hide_border=true)
-
- ----
-## 📌 Pinned Repos
-
-[![JARVIS](https://github-readme-stats.vercel.app/api/pin/?username=devaaradhya99&repo=J.A.R.V.I.S&theme=radical)](https://github.com/devaaradhya99/J.A.R.V.I.S)
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/devaaradhya99/devaaradhya99/output/github-snake-dark.svg)
-
----
 
 ## 💬 Random Dev Quote
 
