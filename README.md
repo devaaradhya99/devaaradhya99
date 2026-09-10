@@ -1,10 +1,12 @@
 # Hey, I'm devaaradhya99 👋
 
 ## 🚀 About Me
-- 🎯 **Goal**: Build the best AI assistant
+
 - 🔭 I'm working on **JARVIS Voice Assistant**
-- 🌱 I'm learning **Python, AI, IoT**
-- 💬 Ask me about **JARVIS, Arduino, Voice AI**
+- 🌱 I'm learning **Python, AI, IoT, c++, html\ **
+- 💬 Ask me about **JARVIS,
+- Arduino,
+-  Voice AI's**
 - ⚡ Fun fact: **I built an AI assistant from scratch!**
 
 ---
@@ -15,9 +17,6 @@
 ![Followers](https://img.shields.io/github/followers/devaaradhya99?label=Followers&style=for-the-badge&color=blue)
 ![Stars](https://img.shields.io/github/stars/devaaradhya99?style=for-the-badge&color=gold)
 ![Forks](https://img.shields.io/github/forks/devaaradhya99?style=for-the-badge&color=green)
-![Pull Requests](https://img.shields.io/github/issues-pr/devaaradhya99?style=for-the-badge&color=purple)
-![Issues](https://img.shields.io/github/issues/devaaradhya99?style=for-the-badge&color=red)
-![Commits](https://img.shields.io/github/commits-since/devaaradhya99/J.A.R.V.I.S?style=for-the-badge&color=orange)
 
 ---
 
